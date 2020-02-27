@@ -1,13 +1,12 @@
-package java.com.jiker.keju.taxi;
+package com.jiker.keju.taxi;
 
 import com.jiker.keju.taxi.ReadFile;
 import org.junit.Test;
-//import junit.framework.Test;
 
 import java.io.IOException;
 
-//import static junit.framework.Assert.assertEquals;
-//import static junit.framework.Assert.assertNull;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNull;
 
 public class ReadFileTest {
 

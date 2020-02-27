@@ -1,4 +1,4 @@
-package java.com.jiker.keju.taxi;
+package com.jiker.keju.taxi;
 
 import com.jiker.keju.taxi.TaxiCalculator;
 import org.junit.Test;
